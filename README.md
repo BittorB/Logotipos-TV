@@ -22,8 +22,6 @@ Instalación de las URL's para los logotipos bajo TVHeadend:
 3- En el campo: "Channel icon name scheme" marcaremos "No scheme" para adaptarlo a este repositorio.
 El resto de opciones las dejaremos tal cual están y en la parte superior iquierda pulsaremos en "SAVE" para que los cambios tengan efecto.
 
--Ahora vamos a: "Configuration --> General --> Image cache" en este menú marcaremos "Enabled" y "Ignore invalid SSL certificate" el resto lo dejamos tal cual está por defecto y volvemos a darle a "Save" para guardar los cambios.
-
 -Por último, vamos a "Configuration --> Channel / EPG --> Channels" vamos a la parte inferior derecha de la ventana y donde nos indica cuantos canales mostrar por página, le indicaremos que nos los muestre todos, es decir, "All".
 
 Marcamos uno a uno todos los canales o podemos valernos de las teclas "Shift + Click izquierdo de ratón" marcando de forma normal el primer canal de la lista, vamos asta el final de la lista y pulsando SHIFT + CLICK Izquierdo del ratón en la última entrada, nos marcará todos los canales. Ahora pulsamos en la opción de la parte superior donde dice: "Reset Icon" y pulsamos en Save, al pulsar en Save nos generará las URL's y si todo a salido bien, lo tendremos funcionando perfectamente.
