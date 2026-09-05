@@ -1,4 +1,3 @@
-Vídeo-Tutorial en Youtube: https://youtu.be/bbZBz3ltues
 # LOGOTIPOS PARA LOS CANALES NACIONALES Y LOCALES ESPAÑOLES
 El proyecto siguiente está orientado a la creación de los logotipos oficiales de los canales españoles de Televisión, ya sea a nivel nacional o comunitarios.
 
@@ -31,10 +30,9 @@ Marcamos uno a uno todos los canales o podemos valernos de las teclas "Shift + C
 
 URL's Logotipos.
 --------------------------------------------------------------------------------------------------------------------
-1- DVB-T o TDT: https://github.com/ricargr/Logotipos-TV/raw/master/main/transparentes/%C.png
+1- DVB-T o TDT: https://github.com/BittorB/Logotipos-TV/raw/master/main/transparentes/%C.png
 
--Logos Actualizados el 23 de Marzo de 2019
+-Logos Actualizados a 2026
 
-2- Movistar-TV o IPTV: https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/development/IPTV/MoviStar%2B/%C.png (en desarrollo)
 
--Logos Actualizados el 21 de Diciembre de 2016
+-Logos Actualizados 
